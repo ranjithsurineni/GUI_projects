@@ -1,0 +1,5 @@
+1.sleep at 10.30 pm
+2.wakeup at 7.30 am
+3.study at 8.30 am1.sleep at 10.30 pm
+1.add hi ranjith
+4.this is simple gui program of to-do list
